@@ -1,0 +1,12 @@
+{
+  "name": "ls",
+  "properties": {
+    "type": "AzureBlobStorage",
+    "typeProperties": {
+      "AccountKey": {
+        "type": "SecureString",
+        "value": "value"
+      }
+    }
+  }
+}
