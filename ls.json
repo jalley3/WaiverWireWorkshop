@@ -3,7 +3,7 @@
   "properties": {
     "type": "AzureBlobStorage",
     "typeProperties": {
-      "connectionString": "DefaultEndpointsProtocol=https;AccountName=packerjacobdiag;EndpointSuffix=core.windows.net;AccountKey=imanaccountkey"
+      "connectionString": "DefaultEndpointsProtocol=https;AccountName=packerjacobdiag;EndpointSuffix=core.windows.net;AccountKey=imanaccountkey;Password=xyz"
     }
   }
 }
